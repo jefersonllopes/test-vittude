@@ -8,6 +8,8 @@ A proposta desse desafio é transformar [este protótipo de tela de login](https
 
 - O flow ficou baseada na main page mas poderia também ser utilizado o react router para direcionamento das páginas.
 
+- No intuito de ter um flow mais usual, foi incluido um componente chamado Welcome que nada mais é que a área logada, assim que o usuário fizer login com as crendenciais válidas, o componente será exibido.
+
 - Adicionei um botão chamado **Novo por aqui? Cadastre-se**, o mesmo não se encontra no design proposto, mas foi adicionado (pode ser removido) no intuito de aumentar a experiência do usuário, que após criado assim que fizer login, será direcionado para a tela de área logada.
 
 ## Referência
